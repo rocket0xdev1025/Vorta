@@ -734,7 +734,7 @@
                     ),
                     (0, d.jsx)("span", {
                       className: f.default.footerDomain,
-                      children: "vortamarkets.com",
+                      children: "vortamarkets.site",
                     }),
                   ],
                 }),
